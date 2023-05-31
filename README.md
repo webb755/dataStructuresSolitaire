@@ -1,7 +1,7 @@
 # dataStructuresSolitaire
 /*
 THIS IS SET UP TO RUN ON WINDOWS SUBSYSTEM FOR LINUX
-(includes makefile stc.)
+(includes makefile etc.)
 
 the purpose of the project is to utilize data structures made from scratch
 to create a playable, menu-driven Solitaire game.
